@@ -1,5 +1,4 @@
-{
-    "fruits": [
+[
         {
             "id": 1,
             "name": "Apple",
@@ -101,4 +100,4 @@
             "image_url": "https://unsplash.com/photos/plum-image-id"
         }
     ]
-}
+
